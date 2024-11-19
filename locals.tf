@@ -1,5 +1,5 @@
 locals {
-  service = "okta-jit-provisioning"
+  service = "okta-jit-access"
 
   constants = {
     scheduler = {
